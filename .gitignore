@@ -1,0 +1,8 @@
+# Ignore git by default:
+# .git folder
+
+# Build dirs
+**/build
+
+# VSCode IDE settings folder
+.vscode
